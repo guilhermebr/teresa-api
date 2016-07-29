@@ -1,4 +1,5 @@
 # PaaS
+[![Build Status](http://52.204.159.114:8080/job/teresa-server/badge/icon)](http://52.204.159.114:8080/job/teresa-server)
 
 Luiza Labs platform as a service project.
 
